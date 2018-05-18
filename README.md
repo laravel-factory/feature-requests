@@ -1,7 +1,7 @@
 
 ## Request a feature (or report a bug) for [Laravel Factory](https://laravelfactory.com)
 
-> This repository is used to track feature requests and bug reports of Laravel Factory. We use Issues feature of Github which is quite powerful and there is no need for a dedicated feature request tracking system. Here are the quick steps to follow:
+This repository is used to track feature requests and bug reports of Laravel Factory. We use Issues feature of Github which is quite powerful and there is no need for a dedicated feature request tracking system. Here are the quick steps to follow:
 
 |||
 |--|--|
@@ -10,4 +10,4 @@
 |![Vote for existing requests](./vote-for-existing-requests.png "Vote for existing requests")|**Step:3 If there is already a similar request, you may vote for it and comment for any additional info.**|
 |**Step:4 If not, you may go ahead and create a new issue for your request**|![Create a new issue](./create-a-new-issue.png "Create a new issue")|
 
-> We would label your request accordingly and keep you updated.
+We would label your request accordingly and keep you updated.
